@@ -1,0 +1,1 @@
+var person = document.getElementsByClassName("rating")
